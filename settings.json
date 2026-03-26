@@ -28,14 +28,18 @@
     "chat-messages": {
       "enabled": false,
       "repeat": false,
-      "repeat-delay": 500000000,
+      "repeat-delay": 500000000000000000000000000000000000000000000000000000000000000000000000000000000000000000,
       "messages": [
-        "I'm a regular player",
-        "Subscribe to Slobos!",
-        "I like to play Minecraft!"
+        "
+    
+        
+    
+                ",
+        "",
+        ""
       ]
     },
-    "chat-log": true,
+    "chat-log": flase,
     "auto-reconnect": true,
     "auto-reconnect-delay": 2000,
     "max-reconnect-delay": 20000,

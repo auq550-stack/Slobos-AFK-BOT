@@ -1,5 +1,5 @@
 {
-  "name": "AFK Bot",
+  "name": "Technoblade",
   "bot-account": {
     "username": "AFKbot6000",
     "password": "",
@@ -30,16 +30,12 @@
       "repeat": false,
       "repeat-delay": 5000000000000000000000000000000000000000000000000000000000000000000000000,
       "messages": [
-        "
-    
-        
-    
-                ",
-        "",
-        ""
+        ".....",
+        ".",
+        ".."
       ]
     },
-    "chat-log": false,
+    "chat-log": true,
     "auto-reconnect": true,
     "auto-reconnect-delay": 2000,
     "max-reconnect-delay": 20000,
@@ -86,7 +82,7 @@
     "events": {
       "connect": true,
       "disconnect": true,
-      "chat": false
+      "chat": true
     }
   },
   "chat": {
